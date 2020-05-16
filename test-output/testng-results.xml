@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="94432" started-at="2020-04-25T19:38:50 IST" finished-at="2020-04-25T19:40:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="94432" started-at="2020-04-25T19:38:50 IST" finished-at="2020-04-25T19:40:25 IST">
+      <class name="PackOne.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:PackOne.ClassOne@136e911]" name="methodOneA" duration-ms="21509" started-at="2020-04-25T19:38:50 IST" finished-at="2020-04-25T19:39:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- PackOne.ClassOne -->
+      <class name="PackOne.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:PackOne.ClassThree@eed359]" name="methodThreeA" duration-ms="33778" started-at="2020-04-25T19:39:31 IST" finished-at="2020-04-25T19:40:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+      </class> <!-- PackOne.ClassThree -->
+      <class name="PackOne.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:PackOne.ClassTwo@a3426]" name="methodTwoA" duration-ms="18792" started-at="2020-04-25T19:39:12 IST" finished-at="2020-04-25T19:39:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+      </class> <!-- PackOne.ClassTwo -->
+      <class name="PackOne.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:PackOne.ClassFour@9b1010]" name="methodFourA" duration-ms="20283" started-at="2020-04-25T19:40:04 IST" finished-at="2020-04-25T19:40:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+      </class> <!-- PackOne.ClassFour -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

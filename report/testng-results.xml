@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="96485" started-at="2020-05-15T19:57:36 IST" finished-at="2020-05-15T19:59:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="96485" started-at="2020-05-15T19:57:36 IST" finished-at="2020-05-15T19:59:12 IST">
+      <class name="PackOne.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:PackOne.ClassOne@167135c]" name="methodOneA" duration-ms="26744" started-at="2020-05-15T19:57:36 IST" finished-at="2020-05-15T19:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- PackOne.ClassOne -->
+      <class name="PackOne.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:PackOne.ClassThree@157f54e]" name="methodThreeA" duration-ms="22587" started-at="2020-05-15T19:58:27 IST" finished-at="2020-05-15T19:58:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+      </class> <!-- PackOne.ClassThree -->
+      <class name="PackOne.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:PackOne.ClassTwo@7471b5]" name="methodTwoA" duration-ms="24275" started-at="2020-05-15T19:58:03 IST" finished-at="2020-05-15T19:58:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+      </class> <!-- PackOne.ClassTwo -->
+      <class name="PackOne.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:PackOne.ClassFour@10f6bfd]" name="methodFourA" duration-ms="22834" started-at="2020-05-15T19:58:49 IST" finished-at="2020-05-15T19:59:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+      </class> <!-- PackOne.ClassFour -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
